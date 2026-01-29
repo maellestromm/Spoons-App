@@ -7,8 +7,9 @@
 </p>
 
 <b>App Demonstration Video</b>
-  - [Spoons Video](https://youtu.be/IgkT25OiMQU?si=5rRlevQEJ28tadsY)<br>
-<img alt="Spoons Video Thumbnail" src="https://github.com/maellestromm/Spoons-App/blob/963de6a6be485bfc07255b221d8ba6b443d47e7d/Spoons_Thumbnail.png" width="40%"></img>
+[demo]:https://youtu.be/IgkT25OiMQU?si=5rRlevQEJ28tadsY
+  - [Spoons Video][demo]<br>
+[<img alt="Spoons Video Thumbnail" src="https://github.com/maellestromm/Spoons-App/blob/963de6a6be485bfc07255b221d8ba6b443d47e7d/Spoons_Thumbnail.png" width="40%"></img>][demo]
   - <p>Full credit for video production goes to Jae Hee Kim</p><br>
 
 <h2>Key Contributions</h2>
