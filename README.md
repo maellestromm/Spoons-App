@@ -5,7 +5,7 @@
 <p>
   Created in CMPT 469 - Special Topics in Computer Graphics: Interactive Prototyping, <b>May - August 2025</b>
 </p><br>
-<img align="right" alt="Spoons Home Screen" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshotHome.png" width="20%"></img>
+<img align="right" alt="Spoons Home Screen" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshotHome.png" width="30%"></img>
 
 <b>App Demonstration Video</b>
   - [Spoons Video][demo]<br>
@@ -28,5 +28,8 @@
     -[Link to interactive Figma prototype: Logging](https://www.figma.com/proto/5Dyj0VJJuOtuHBre8QJ6iO/Vertical-Prototype?node-id=302-8267&t=oJqcsqzSfqxc38ig-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=302%3A8267&show-proto-sidebar=1)<br>
 <img alt="Logging 1/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot5.png" width="20%"></img> <img alt="Logging 2/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot6.png" width="20%"></img> <img alt="Logging 3/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot7.png" width="20%"></img> <img alt="Logging 4/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot8.png" width="20%"></img> <br>
   <br>
+
+<p>In addition, one of my significant contributions to project documentation and reports was a complete technical walkthrough of all core app functions</p>
+ - [ReadMe.pdf](https://github.com/maellestromm/Spoons-App/blob/ecba1405f1c919f812c29427ea6d2c55ea08b872/ReadMe.pdf)<br>
 
 [demo]:https://youtu.be/IgkT25OiMQU?si=5rRlevQEJ28tadsY
