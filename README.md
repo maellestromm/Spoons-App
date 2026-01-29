@@ -4,7 +4,8 @@
 
 <p>
   Created in CMPT 469 - Special Topics in Computer Graphics: Interactive Prototyping, <b>May - August 2025</b>
-</p>
+</p><br>
+<img align="right" alt="Spoons Home Screen" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshotHome.png" width="20%"></img>
 
 <b>App Demonstration Video</b>
   - [Spoons Video][demo]<br>
@@ -13,7 +14,6 @@
 
 <b>Try it out for yourself!</b>
   - [Link to interactive Figma prototype: Home Screen](https://www.figma.com/proto/5Dyj0VJJuOtuHBre8QJ6iO/Vertical-Prototype?node-id=162-3900&t=lgsxdQnp88bpSi9A-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=162%3A3900&show-proto-sidebar=1)<br>
-<img align="right" alt="Spoons Home Screen" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshotHome.png" width="20%"></img>
 
 <h2>Key Contributions</h2>
 
