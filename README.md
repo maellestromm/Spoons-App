@@ -30,6 +30,6 @@
   <br>
 
 <p>In addition, one of my significant contributions to project documentation and reports was a complete technical walkthrough of all core app functions</p>
- - [ReadMe.pdf](https://github.com/maellestromm/Spoons-App/blob/ecba1405f1c919f812c29427ea6d2c55ea08b872/ReadMe.pdf)<br>
+  - [ReadMe.pdf](https://github.com/maellestromm/Spoons-App/blob/ecba1405f1c919f812c29427ea6d2c55ea08b872/ReadMe.pdf)<br>
 
 [demo]:https://youtu.be/IgkT25OiMQU?si=5rRlevQEJ28tadsY
