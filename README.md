@@ -5,7 +5,7 @@
 <p>
   Created in CMPT 469 - Special Topics in Computer Graphics: Interactive Prototyping, <b>May - August 2025</b>
 </p><br>
-<img align="right" alt="Spoons Home Screen" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshotHome.png" width="30%"></img>
+<img align="center" alt="Spoons Home Screen" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshotHome.png" width="20%"></img>
 
 <b>App Demonstration Video</b>
   - [Spoons Video][demo]<br>
