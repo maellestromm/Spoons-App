@@ -15,7 +15,7 @@
 
 <p>Though the project was a group effort with frequent collaborations on each feature, I was the lead developer for the design and implementation of: </p>
   - <b>Item Scanning Features</b>
-    - [Link to interactive Figma prototype: Scanning](https://www.figma.com/proto/5Dyj0VJJuOtuHBre8QJ6iO/Vertical-Prototype?node-id=8-21&t=d6Lr3OTgTOQRLTXH-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=8%3A21&show-proto-sidebar=1)<br>
+    - [Link to interactive Figma prototype: Scanning](https://www.figma.com/proto/5Dyj0VJJuOtuHBre8QJ6iO/Vertical-Prototype?node-id=8-21&t=AxU6JvELVAj02CKs-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=8%3A21&show-proto-sidebar=1)<br>
     <br>
     
   - <b>Item Logging Features</b>
