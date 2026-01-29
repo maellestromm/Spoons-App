@@ -8,4 +8,10 @@
 
 <b>App Demonstration Video<b>
   - <p>Full credit for video production goes to Jae Hee Kim</p>
-  - <iframe width="560" height="315" src="https://www.youtube.com/embed/IgkT25OiMQU?si=BVYiwGF2xO_lfKAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  - [Spoons Video](https://youtu.be/IgkT25OiMQU?si=5rRlevQEJ28tadsY)<br>
+  <br>
+
+<b>Key Contributions<b>
+  - <p>Though the project was a group effort with frequent collaborations on each feature, I was the lead developer for the design and implementation of the Item Scanning and Logging features. </p>
+  
+  <br>
